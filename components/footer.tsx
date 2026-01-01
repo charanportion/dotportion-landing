@@ -99,7 +99,7 @@ export default function Footer() {
                 <FaInstagram className="w-4 h-4" />
               </Link>
               <Link
-                href={"https://discord.gg/RjtPmUcS"}
+                href={"https://discord.gg/wZnKHPBk"}
                 target="_"
                 className="text-neutral-500 hover:text-foreground transition"
               >

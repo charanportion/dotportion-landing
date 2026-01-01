@@ -1098,7 +1098,7 @@ export default function Page() {
           </p>
           <div className="my-4 flex justify-center gap-2">
             <Link
-              href={"https://discord.gg/RjtPmUcS"}
+              href={"https://discord.gg/wZnKHPBk"}
               className=" gap-2 px-4 py-2 h-10 lg:block text-sm justify-center cursor-pointer space-x-2 text-center ease-out duration-200 rounded-md outline-none transition-all outlint-0 border border-neutral-300 hover:border-neutral-400 dark:hover:border-neutral-600  text-neutral-700 bg-white hover:bg-neutral-100  dark:bg-neutral-800 dark:border-neutral-700 dark:text-neutral-100 dark:hover:bg-neutral-700"
             >
               <div className="flex items-center gap-2">
